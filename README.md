@@ -1,1 +1,0 @@
-# khanmina.github.io
