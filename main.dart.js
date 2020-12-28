@@ -54635,7 +54635,7 @@ this.uk()},
 a1:function(a){this.IX(0)
 this.uk()}}
 F.CD.prototype={
-G:function(a,b){var s=null,r=X.a7f(C.n,s),q=t.fQ,p=new E.ty(H.c([E.CC("Purpose"),E.CC("Journey"),E.CC("Projects"),E.CC("Publications"),E.CC("Awards")],q),!0,C.n,C.aO,s),o=M.cb(s,M.cb(s,U.Op("images/mina.gif",s),s,s,s,s,s,s,s),s,s,s,60,s,s,s),n=p.gxs().b
+G:function(a,b){var s=null,r=X.a7f(C.n,s),q=t.fQ,p=new E.ty(H.c([E.CC("Purpose"),E.CC("Journey"),E.CC("Projects"),E.CC("Publications"),E.CC("Awards")],q),!0,C.n,C.aO,s),o=M.cb(s,M.cb(s,U.Op("images/Mina.png",s),s,s,s,s,s,s,s),s,s,s,60,s,s,s),n=p.gxs().b
 n=56+(n==null?0:n)
 return new S.qP(new U.pH(5,M.t0(new E.pc(o,p,C.j,new P.K(1/0,n),s),new E.tA(H.c([new A.zG(A.cK(s,s,s,s,s,s,s,s,s,s,s,s,s,C.aW,s,s,!0,s,s,s,s,s,s),A.cK(s,s,C.n,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s),s),new F.r1(s),new K.r2(s),new Q.r3(s),new X.r0(s)],q),s)),s),"Mina Khan",r,s)}}
 X.r0.prototype={
