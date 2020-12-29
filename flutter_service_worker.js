@@ -5,11 +5,11 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "281f2a7b1646c3dea6feea25f04fa556",
 "favicon.ico": "57a40c92b0b5781ce91cc8a12dde0855",
-"index.html": "71eef9d3f00033a3dcf3ce93cbfe105b",
-"/": "71eef9d3f00033a3dcf3ce93cbfe105b",
+"index.html": "6727f85eeee136ae6d233566ea41b39a",
+"/": "6727f85eeee136ae6d233566ea41b39a",
 "images/planets.gif": "19c27da6692d59e0a2cd30463571ac8f",
 "images/flower.jpg": "e22d08e7ef8349e71354eee1b5cb6670",
-"main.dart.js": "dec9acecc3c63a14a950e13bf8f1d9b0",
+"main.dart.js": "82292ba92f5155278d1b9f679683e8dd",
 "icons/favicon-16x16.png": "6fad85b222553c5d99ab9c51e920e830",
 "icons/favicon.ico": "57a40c92b0b5781ce91cc8a12dde0855",
 "icons/android-chrome-192x192.png": "d3bbfd0cc84bbc9a7525905ccacdeae5",
@@ -19,14 +19,15 @@ const RESOURCES = {
 "icons/logo_svg.png": "a33db611783655411dc858c571163467",
 "icons/favicon-32x32.png": "d741813153caba72fd7333eb71cd4f7c",
 "manifest.json": "414cb2f3a5ac577a222515b76e9af3bf",
-"assets/AssetManifest.json": "6a439ede2f494d9c71c0a68d7c2263c7",
+"assets/AssetManifest.json": "6b87bc121e9935a254ae33c601d14642",
 "assets/NOTICES": "f0c7a03b5fd990804ed256e9a9d28ee7",
 "assets/FontManifest.json": "6ecbe48ac2ca5b349003c29f98675e1a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/line_awesome_flutter/lib/fonts/LineAwesome.ttf": "bcc78af7963d22efd760444145073cd3",
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac"
+"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/assets/images/file-alt.svg": "ed8a3b4b698e943d5ee65bbc23034d23"
 };
 
 // The application shell files that are downloaded before a service worker can
