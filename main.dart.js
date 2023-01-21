@@ -16065,10 +16065,10 @@ case C.bc:return"Human-Computer Interaction"
 case C.hr:return"Physics"
 case C.f0:return"Leadership"
 case C.iW:return"Design and Engineering"
-case C.aU:return"Behavior Change & AI"
-case C.hp:return"Mixed Reality Learning"
+case C.aU:return"Artificial Intelligence & Deep Learning"
+case C.hp:return"Mixed Reality & Remote Learning"
 case C.f_:return"Applied Physics"
-case C.iU:return"Just-in-time Wearable Information"
+case C.iU:return"Behavior Change & Design"
 case C.L:return"Academic Excellence"
 case C.cv:return"Fellowships"
 case C.aT:return"Competitions"
@@ -57510,12 +57510,20 @@ C.AK=new F.R(C.aY,"Mount Holyoke College","Teaching Assistant","Linear Algebra; 
 C.Aw=new F.R(C.aY,"Swarm Robotics Lab, Mount Holyoke College","Undergraduate Researcher/Developer","Implemented multi-robot formations using rigidity graph theory for swarm robots",null,"2013 - 2014",null,null,"",null,"",null,C.cw,"")
 C.Bj=new F.R(C.hD,"Mount Holyoke College","B.A. in Mathematics, Physics, & Computer Science","Magna Cum Laude","Courses: Machine Learning; Artifical Intelligence; Real Analysis; Complex Analysis; Quantum Mechanics (I, II); Algorithms; Differential Equations; Theory of Computation; Electromagnetic Theory; Fluid Mechanics; Electronics","2011 - 2015","GPA: 4.0/4.0",null,"",null,"",null,C.hn,"")
 C.aU=new F.ch("SubCategory.behaviorChange")
-C.Ba=new F.R(C.Z,"Personalized & Privacy-preserving Egocentric Visual Context Detection using On-device Deep Learning","2021 ACM Conference on User Modeling, Adaptation & Personalization (Submitted)","Mina Khan",null,null,null,u.P,"",null,"",null,C.aU,"")
-C.AC=new F.R(C.Z,"Time to Put the Self Back in Self-improvement: Users have Dynamic, Diverse, & Intrinsically-Motivated Behavior Change Goals.","Joint Proceedings of the ACM CHI 2021 Workshops (Submitted)","Mina Khan",null,null,null,", Glenn Fernandes, and Pattie Maes.","",null,"",null,C.aU,"")
-C.Ac=new F.R(C.Z,"Computer-Related Behavior Change: What Users Want and Experience",u.F,"Mina Khan",null,null,null,", and Pattie Maes.","",null,"",null,C.aU,"")
-C.Ad=new F.R(C.Z,"Tracking Diverse Feelings and Activities Encourages Self-guided Holistic Behavior Change",u.F,"Mina Khan",null,null,null,", Pattie Maes.","",null,"",null,C.aU,"")
+C.iU=new F.ch("SubCategory.jitWearables")
+C.Zz=new F.R(C.Z,"Mastering the game of Stratego with model-free multiagent reinforcement learning","Science, 2022.","Perolat et al",null,null,null,".","",null,"",null,C.aU,"")
+C.Zy=new F.R(C.Z,"Developing, evaluating and scaling learning agents in multi-agent environments","AI Communications, 2022.","Gemp et al",null,null,null,".","",null,"",null,C.aU,"")
+C.Ba=new F.R(C.Z,"Pretrained Encoders are All You Need","ICML Workshop on Unsupervised Reinforcement Learning, 2021","Mina Khan et al.",null,null,null,u.P,"",null,"",null,C.aU,"")
+C.AC=new F.R(C.Z,"Wearable System for Personalized and Privacy-preserving Egocentric Visual Context Detection using On-device Deep Learning.","Adjunct Proceedings of ACM Conference on User Modeling, Adaptation & Personalization, 2021","Mina Khan, et al",null,null,null,".","",null,"",null,C.aU,"")
+C.Ac=new F.R(C.Z,"Personalizing Pretrained Models","ICML Workshop on Human-in-the-Loop Learning, 2021","Mina Khan et al",null,null,null,".","",null,"",null,C.aU,"")
+C.Ad=new F.R(C.Z,"PAL: Intelligence Augmentation using Egocentric Visual Context Detection","CVPR Workshop on Egocentric Perception, Interaction and Computing, 2021.","Mina Khan et al",null,null,null,".","",null,"",null,C.aU,"")
+C.Zx=new F.R(C.Z,"Personalized & Privacy-preserving Egocentric Visual Context Detection using On-device Deep Learning","28th ACM Conference on User Modeling, Adaptation & Personalization, 2021.","Mina Khan et al",null,null,null,".","",null,"",null,C.aU,"")
+C.Zw=new F.R(C.Z,"Tracking Diverse Feelings and Activities Encourages Self-guided Holistic Behavior Change","Extended Abstracts, 2021 CHI Conference on Human Factors in Computing Systems. ACM, 2021.","Mina Khan et al",null,null,null,".","",null,"",null,C.iU,"")
+C.Zv=new F.R(C.Z,"Self-determined Behavior Change Goals are Dynamic, Diverse, and Intrinsically-Motivated","Ninth International Workshop on Behaviour Change Support Systems, Persuasive Tech, 2021","Mina Khan et al",null,null,null,".","",null,"",null,C.iU,"")
+C.Zu=new F.R(C.Z,"Changing Computer-Usage Behaviors: What Users Want, Use, and Experience","Extended Abstracts, 2021 CHI Conference on Human Factors in Computing Systems. ACM, 2021.","Mina Khan et al",null,null,null,".","",null,"",null,C.iU,"")
+C.Zt=new F.R(C.Z,"Users want Diverse, Multiple, and Personalized Behavior Change Support: Need-finding Survey","International Conference on Persuasive Technology, Springer, 2021.","Mina Khan et al",null,null,null,".","",null,"",null,C.iU,"")
 C.AI=new F.R(C.Z,"Improving Context-aware Habit-support Interventions using Egocentric Visual Contexts",u.h,"Mina Khan",null,null,null,", Glenn Fernandes, Mayank Manuja, Akash Vaish, Pattie Maes, and Agnis Stribe.","",null,"",null,C.aU,"")
-C.B6=new F.R(C.Z,"Surveying User Needs for Real-world Behavior Change Support",u.h,"Mina Khan",null,null,null,", Glenn Fernandes, and Pattie Maes.","",null,"",null,C.aU,"")
+C.B6=new F.R(C.Z,"Surveying User Needs for Real-world Behavior Change Support",u.h,"Mina Khan",null,null,null,", Glenn Fernandes, and Pattie Maes.","",null,"",null,C.iU,"")
 C.AY=new F.R(C.Z,"PAL: Wearable & Personalized Habit-support Interventions in Visual & Physiological Contexts","2021 AHs : Augmented Humans International Conference. ACM, 2021","Mina Khan",null,null,null,u.P,"",null,"",null,C.aU,"")
 C.B3=new F.R(C.Z,"PAL: Privacy-preserving Audio, Visual, and Physiological Contexts for Wearable Behavior Change Support","2021 IUI : Workshop on Healthy Interfaces, Intelligent User Interfaces. ACM, 2021","Mina Khan",null,null,null,", Glenn Fernandes, and Pattie Maes.","",null,"",null,C.aU,"")
 C.AM=new F.R(C.Z,"PAL: A Wearable Platform for Real-time, Personalized, and Context-Aware Health and Cognition","arXiv preprint arXiv:1905.01352 (2019)","Mina Khan",null,null,null,", Glenn Fernandes, Utkarsh Sarawgi, Prudhvi Rampey, and Pattie Maes.","",null,"",null,C.aU,"https://arxiv.org/abs/1905.01352")
@@ -57525,9 +57533,8 @@ C.AB=new F.R(C.Z,"Mathland: Playful Mathematical Learning in Mixed Reality","Ext
 C.Bh=new F.R(C.Z,"ARPiano: Efficient Music Learning Using Augmented Reality (Best Paper Award)","International Conference on Innovative Technologies and Learning. Springer, Cham, 2018.","Mina Khan",null,null,null,", and Pattie Maes.","Trujano, Fernando, ",null,"",null,C.hp,"https://link.springer.com/chapter/10.1007%2F978-3-319-99737-7_1")
 C.f_=new F.ch("SubCategory.appliedPhysics")
 C.Bl=new F.R(C.Z,"Towards Personalized Medicine: The Evolution of Imperceptible Healthcare Technologies","Foresight 2018","Khan M., ",null,null,null,"Sadraei A., et al.","C Dagdeviren, ",null,"",null,C.f_,"https://github.com/khanmina/khanmina.github.io/blob/main/assets/pdf/publications/canan.pdf")
-C.iU=new F.ch("SubCategory.jitWearables")
-C.At=new F.R(C.Z,"TagAlong: Informal Learning from a Remote Companion with Mobile Perspective Sharing","Cognition and Exploratory Learning in Digital Age (CELDA) 2015","Khan, M.",null,null,null,", Vazquez, C. D., & Maes, P.","Greenwald, S. W., ",null,"",null,C.iU,"https://github.com/khanmina/khanmina.github.io/blob/main/assets/pdf/publications/tagalong.pdf")
-C.Ap=new F.R(C.Z,"Enabling Human Micro-Presence Through Small-Screen Head-up Display Devices","Extended Abstracts of the 2015 CHI Conference on Human Factors in Computing Systems. ACM, 2015.","Khan, M.",null,null,null,", & Maes, P.","Greenwald, S. W., ",null,"",null,C.iU,"https://github.com/khanmina/khanmina.github.io/blob/main/assets/pdf/publications/minakhan-chi2015.pdf")
+C.At=new F.R(C.Z,"TagAlong: Informal Learning from a Remote Companion with Mobile Perspective Sharing","Cognition and Exploratory Learning in Digital Age (CELDA) 2015","Khan, M.",null,null,null,", Vazquez, C. D., & Maes, P.","Greenwald, S. W., ",null,"",null,C.hp,"https://github.com/khanmina/khanmina.github.io/blob/main/assets/pdf/publications/tagalong.pdf")
+C.Ap=new F.R(C.Z,"Enabling Human Micro-Presence Through Small-Screen Head-up Display Devices","Extended Abstracts of the 2015 CHI Conference on Human Factors in Computing Systems. ACM, 2015.","Khan, M.",null,null,null,", & Maes, P.","Greenwald, S. W., ",null,"",null,C.hp,"https://github.com/khanmina/khanmina.github.io/blob/main/assets/pdf/publications/minakhan-chi2015.pdf")
 C.AR=new F.R(C.Z,"A Multi-level Single-bit Data Storage Device",u.g,"Mina Khan",null,null,null,", and Katherine E. Aidala","Bickel, Jessica E., ",null,"",null,C.f_,"https://github.com/khanmina/khanmina.github.io/blob/main/assets/pdf/publications/MagnetismPaper_Mina.pdf")
 C.AS=new F.R(C.Z,"Single domain wall manipulation in curved nanowires using a mobile, local, circular field",u.g,"M Khan",null,null,null,", M Tuominen, K Aidala","M Shortt, J Bickel, ",null,"",null,C.f_,"")
 C.AO=new F.R(C.Z,"Magnetization Manipulation in Ferromagnetic Nanoscale Disks","APS March Meeting Abstracts 2013.","M Khan",null,null,null,", J Bickel, K Aidala, M Tuominen","W Ju, M Shortt, ",null,"",null,C.f_,"")
@@ -57606,7 +57613,7 @@ C.lh=new F.ch("SubCategory.hardware")
 C.Ak=new F.R(C.lV,"Microfabrication (cleanroom), Circuit design (Eagle), CNC milling, Laser cutting, & 3D printing and fabrication","Hardware","",null,null,null,null,"",null,"",null,C.lh,"")
 C.li=new F.ch("SubCategory.design")
 C.Ah=new F.R(C.lV,"Figma, Sketch, Adobe Creative Suite (Illustrator, Photoshop, InDesign, Premiere)","Design","",null,null,null,null,"",null,"",null,C.li,"")
-C.q1=H.c(s([C.Bn,C.B9,C.A1,C.A4,C.AJ,C.Bf,C.AN,C.B2,C.Bb,C.A2,C.AK,C.Aw,C.Bj,C.Ba,C.AC,C.Ac,C.Ad,C.AI,C.B6,C.AY,C.B3,C.AM,C.A8,C.AB,C.Bh,C.Bl,C.At,C.Ap,C.AR,C.AS,C.AO,C.Bg,C.Am,C.AT,C.Az,C.B0,C.Al,C.B8,C.Ae,C.A5,C.A6,C.A9,C.Bk,C.Be,C.Ab,C.Bi,C.AV,C.Af,C.Ay,C.AP,C.AG,C.AZ,C.B4,C.A3,C.An,C.AL,C.Ag,C.B1,C.Ai,C.Aa,C.Av,C.AD,C.Aj,C.B_,C.AH,C.Ar,C.Bm,C.AW,C.Ax,C.A7,C.AF,C.Bd,C.Aq,C.AA,C.AX,C.AE,C.Bc,C.AQ,C.Au,C.AU,C.As,C.Ao,C.B5,C.Bo,C.B7,C.Ak,C.Ah]),H.a9("u<R*>"))
+C.q1=H.c(s([C.Bn,C.B9,C.A1,C.A4,C.AJ,C.Bf,C.AN,C.B2,C.Bb,C.A2,C.AK,C.Aw,C.Bj,C.Zz,C.Zy,C.Ba,C.AC,C.Ac,C.Ad,C.Zx,C.Zw,C.Zv,C.Zu,C.Zt,C.AI,C.B6,C.AY,C.B3,C.AM,C.A8,C.AB,C.Bh,C.Bl,C.At,C.Ap,C.AR,C.AS,C.AO,C.Bg,C.Am,C.AT,C.Az,C.B0,C.Al,C.B8,C.Ae,C.A5,C.A6,C.A9,C.Bk,C.Be,C.Ab,C.Bi,C.AV,C.Af,C.Ay,C.AP,C.AG,C.AZ,C.B4,C.A3,C.An,C.AL,C.Ag,C.B1,C.Ai,C.Aa,C.Av,C.AD,C.Aj,C.B_,C.AH,C.Ar,C.Bm,C.AW,C.Ax,C.A7,C.AF,C.Bd,C.Aq,C.AA,C.AX,C.AE,C.Bc,C.AQ,C.Au,C.AU,C.As,C.Ao,C.B5,C.Bo,C.B7,C.Ak,C.Ah]),H.a9("u<R*>"))
 C.jD=H.c(s([0,0,65490,45055,65535,34815,65534,18431]),t.W)
 C.y4=H.c(s(["pointerdown","pointermove","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseup","keyup","keydown"]),t.i)
 C.q2=H.c(s([0,0,26624,1023,65534,2047,65534,2047]),t.W)
